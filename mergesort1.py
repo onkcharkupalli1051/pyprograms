@@ -1,3 +1,4 @@
+#function to merge the the arr
 def merge(a,b):
     (c,m,n) = ([],len(a),len(b))
     (i,j) = (0,0)
@@ -17,6 +18,7 @@ def merge(a,b):
             i += 1
     return c
 
+#inputs
 a = range(2,100,2)
 b = range(1,100,2)
 print(merge(a,b))
