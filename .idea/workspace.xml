@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ef0572-00ad-4bb4-8711-86441678ba98" name="Default Changelist" comment="" />
+    <list default="true" id="92ef0572-00ad-4bb4-8711-86441678ba98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dele.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +58,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.hr_string_split_and_join">
-    <configuration name="delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hr_lists">
+    <configuration name="dele" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dele.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hr_nested_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hr_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_nested_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hr_lists" />
+        <item itemvalue="Python.dele" />
         <item itemvalue="Python.hr_string_split_and_join" />
         <item itemvalue="Python.hr_sWAP_cASE" />
         <item itemvalue="Python.hr_finding_the_percentage" />
-        <item itemvalue="Python.hr_nested_lists" />
-        <item itemvalue="Python.delete" />
       </list>
     </recent_temporary>
   </component>
@@ -194,22 +198,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="700" height="213" key="GridCell.Tab.0.bottom" timestamp="1606049614103">
+    <state width="732" height="213" key="GridCell.Tab.0.bottom" timestamp="1606379603793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="700" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606049614103" />
-    <state width="700" height="213" key="GridCell.Tab.0.center" timestamp="1606049614103">
+    <state width="732" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606379603793" />
+    <state width="732" height="213" key="GridCell.Tab.0.center" timestamp="1606379603793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="700" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606049614103" />
-    <state width="700" height="213" key="GridCell.Tab.0.left" timestamp="1606049614103">
+    <state width="732" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606379603793" />
+    <state width="732" height="213" key="GridCell.Tab.0.left" timestamp="1606379603793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="700" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606049614103" />
-    <state width="700" height="213" key="GridCell.Tab.0.right" timestamp="1606049614103">
+    <state width="732" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606379603793" />
+    <state width="732" height="213" key="GridCell.Tab.0.right" timestamp="1606379603793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="700" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606049614103" />
+    <state width="732" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606379603793" />
+    <state width="732" height="270" key="GridCell.Tab.1.bottom" timestamp="1606379532066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="732" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606379532066" />
+    <state width="732" height="270" key="GridCell.Tab.1.center" timestamp="1606379532066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="732" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606379532066" />
+    <state width="732" height="270" key="GridCell.Tab.1.left" timestamp="1606379532065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="732" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606379532065" />
+    <state width="732" height="270" key="GridCell.Tab.1.right" timestamp="1606379532066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="732" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606379532066" />
     <state x="831" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605940124371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
