@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ef0572-00ad-4bb4-8711-86441678ba98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hr_text_wrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr_designer_door_mat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.hr_text_alignment">
+  <component name="RunManager" selected="Python.hr_designer_door_mat">
+    <configuration name="hr_designer_door_mat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyprograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_designer_door_mat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hr_findastring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +98,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_findastring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hr_linear_algebra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyprograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_linear_algebra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,31 +148,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in hr_mutations" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="hr_text_wrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_mutations.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_text_wrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hr_designer_door_mat" />
+        <item itemvalue="Python.hr_text_wrap" />
         <item itemvalue="Python.hr_text_alignment" />
         <item itemvalue="Python.hr_string_validators" />
         <item itemvalue="Python.hr_findastring" />
-        <item itemvalue="Python tests.Doctests in hr_mutations" />
-        <item itemvalue="Python.hr_linear_algebra" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +203,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="690" height="213" key="GridCell.Tab.0.bottom" timestamp="1606749536465">
+    <state width="691" height="213" key="GridCell.Tab.0.bottom" timestamp="1606823450977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="690" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606749536465" />
-    <state width="690" height="213" key="GridCell.Tab.0.center" timestamp="1606749536464">
+    <state width="691" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606823450977" />
+    <state width="691" height="213" key="GridCell.Tab.0.center" timestamp="1606823450977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="690" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606749536464" />
-    <state width="690" height="213" key="GridCell.Tab.0.left" timestamp="1606749536464">
+    <state width="691" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606823450977" />
+    <state width="691" height="213" key="GridCell.Tab.0.left" timestamp="1606823450977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="690" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606749536464" />
-    <state width="690" height="213" key="GridCell.Tab.0.right" timestamp="1606749536465">
+    <state width="691" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606823450977" />
+    <state width="691" height="213" key="GridCell.Tab.0.right" timestamp="1606823450977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="690" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606749536465" />
+    <state width="691" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606823450977" />
     <state width="732" height="270" key="GridCell.Tab.1.bottom" timestamp="1606380383636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
