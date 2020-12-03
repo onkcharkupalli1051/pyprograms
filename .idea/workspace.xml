@@ -25,7 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ef0572-00ad-4bb4-8711-86441678ba98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hr_string_fromatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr_Capitalize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minion_game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minion_game/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minion_game/.idea/minion_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minion_game/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minion_game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minion_game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pe_even_fibonacci_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pe_multiples_of_3_and_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +71,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.hr_string_fromatting">
+  <component name="RunManager" selected="Python.hr_Capitalize">
+    <configuration name="hr_Capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyprograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_Capitalize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hr_designer_door_mat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hr_string_validators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pe_even_fibonacci_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_string_validators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pe_even_fibonacci_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hr_text_alignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pe_multiples_of_3_and_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,28 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_text_alignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hr_text_wrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyprograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_text_wrap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pe_multiples_of_3_and_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hr_Capitalize" />
+        <item itemvalue="Python.pe_even_fibonacci_numbers" />
+        <item itemvalue="Python.pe_multiples_of_3_and_5" />
         <item itemvalue="Python.hr_string_fromatting" />
         <item itemvalue="Python.hr_designer_door_mat" />
-        <item itemvalue="Python.hr_text_wrap" />
-        <item itemvalue="Python.hr_text_alignment" />
-        <item itemvalue="Python.hr_string_validators" />
       </list>
     </recent_temporary>
   </component>
@@ -201,47 +209,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="692" height="213" key="GridCell.Tab.0.bottom" timestamp="1606909595501">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="692" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606909595501" />
-    <state width="692" height="213" key="GridCell.Tab.0.center" timestamp="1606909595500">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="692" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606909595500" />
-    <state width="692" height="213" key="GridCell.Tab.0.left" timestamp="1606909595500">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="692" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606909595500" />
-    <state width="692" height="213" key="GridCell.Tab.0.right" timestamp="1606909595500">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="692" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606909595500" />
-    <state width="732" height="270" key="GridCell.Tab.1.bottom" timestamp="1606380383636">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="732" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606380383636" />
-    <state width="732" height="270" key="GridCell.Tab.1.center" timestamp="1606380383636">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="732" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606380383636" />
-    <state width="732" height="270" key="GridCell.Tab.1.left" timestamp="1606380383636">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="732" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606380383636" />
-    <state width="732" height="270" key="GridCell.Tab.1.right" timestamp="1606380383636">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="732" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606380383636" />
-    <state x="782" y="57" width="914" height="709" key="SettingsEditor" timestamp="1606562003461">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="782" y="57" width="914" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606562003461" />
-    <state x="831" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605940124371">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="831" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605940124371" />
   </component>
 </project>
