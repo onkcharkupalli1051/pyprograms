@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ef0572-00ad-4bb4-8711-86441678ba98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hr_merge_the_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/.idea/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/two-sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repeat_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NPTEL_DATA_STRUCTURES_TEST_1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NPTEL_DATA_STRUCTURES_TEST_1/ques1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NPTEL_DATA_STRUCTURES_TEST_1/ques1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

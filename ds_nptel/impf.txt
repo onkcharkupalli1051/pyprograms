@@ -1,0 +1,38 @@
+WEEK 1 : GCD,GCD(NAIVE),GCD(EUCLID'S ALGO)
+
+
+
+* 
+WEEK 3: 
+
+Lecture 4 :
+ARRAYS VS LISTS, BINARY SEARCH
+1 . BINARY SEARCH :
+
+Code : 
+def bs(li,x,f,l):
+    if (l-f == 0):
+        return False
+    else:
+        mid = ((l+f) // 2)
+        print("list : ",li)
+        print("mid : ",mid)
+        print("li[mid] : ",li[mid])
+        if li[mid] == x:
+            return True
+        elif(x < li[mid]):
+            return (bs(li,x,f,mid))
+        elif(x > li[mid]):
+            return (bs(li,x,mid+1,l))
+
+print(bs(list(range(1,10)),5,0,10))
+
+Time Complexity : 
+T(n) : T(0) = 1, 
+
+T(n) = 1 + T(n/2)= 1 + 1 + T(n/2^2) = ... 
+     = 1 + 1 + ... + 1 + T(n/2^k) = 1+1+ ... + T(n/2^logn) 
+T(n) = O(logn)
+
+Binary Search only works for arrays, not for list.
+
