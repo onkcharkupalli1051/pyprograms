@@ -40,13 +40,10 @@ Sample Output
    16    20    10 10000
    17    21    11 10001
 """
-def print_formatted(number):
-    # your code goes here
-    w = len("0:b".format(number))
-
-    for n in range(1,number+1):
-        print("{0:{width}d} {0:{width}o} {0:{width}x} {0:{width}b}".format(n,width=w))
-
+def print_formatted(n):
+    for i in range(1,n + 1):
+        pad = n.bit_length()
+        print(f'{i:{pad}d} {i:{pad}o} {i:{pad}X} {i:{pad}b}')
 
 if __name__ == '__main__':
     n = int(input())
