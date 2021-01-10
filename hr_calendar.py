@@ -74,7 +74,7 @@ The day on August th  was WEDNESDAY.
 import calendar
 
 m, d, y = input().split()
-
+print(m,d,y)
 print(calendar.weekday(y,m,d))
 
 
