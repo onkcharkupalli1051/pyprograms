@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ef0572-00ad-4bb4-8711-86441678ba98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VariableSizedArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variable_Sized_Arrays.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/hr_calendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_symmetric_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/hr_symmetric_difference.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +66,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hr_calendar">
-    <configuration name="del" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.VariableSizedArrays">
+    <configuration name="VariableSizedArrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/DEL" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/DEL/del.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VariableSizedArrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,6 +92,9 @@
       <module name="pyprograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -171,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.VariableSizedArrays" />
         <item itemvalue="Python.hr_calendar" />
         <item itemvalue="Python.hr_findangle" />
         <item itemvalue="Python.hr_polar_coordinates" />
         <item itemvalue="Python.hr_string_fromatting" />
-        <item itemvalue="Python.del" />
       </list>
     </recent_temporary>
   </component>
